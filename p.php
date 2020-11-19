@@ -51,7 +51,7 @@ echo " ﻿\033[0;36m
  <br> <br>
  <center><p style='color:red; font-size:45px;'>$d</h1></center> 
 <br> <br> <br> 
-<img src='https://i.gifer.com/SxeZ.gif' height='700px' width='750px'>
+<img src='https://i.gifer.com/CX6Z.gif' height='700px' width='750px'>
  </center>
 <br> <br> <br> 
 <center>
