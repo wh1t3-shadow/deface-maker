@@ -3,9 +3,13 @@
 installation
 
 pkg update
+
 pkg upgrade
+
 pkg install php
+
 pkg install git
+
 git clone https://github.com/wh1t3-shadow/deface-maker
 
 
